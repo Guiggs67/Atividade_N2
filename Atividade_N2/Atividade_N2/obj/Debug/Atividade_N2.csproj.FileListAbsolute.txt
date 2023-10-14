@@ -1,8 +1,0 @@
-Z:\Atividade_N2\Atividade_N2\bin\Debug\Atividade_N2.exe.config
-Z:\Atividade_N2\Atividade_N2\bin\Debug\Atividade_N2.exe
-Z:\Atividade_N2\Atividade_N2\bin\Debug\Atividade_N2.pdb
-Z:\Atividade_N2\Atividade_N2\obj\Debug\Atividade_N2.csproj.AssemblyReference.cache
-Z:\Atividade_N2\Atividade_N2\obj\Debug\Atividade_N2.csproj.SuggestedBindingRedirects.cache
-Z:\Atividade_N2\Atividade_N2\obj\Debug\Atividade_N2.csproj.CoreCompileInputs.cache
-Z:\Atividade_N2\Atividade_N2\obj\Debug\Atividade_N2.exe
-Z:\Atividade_N2\Atividade_N2\obj\Debug\Atividade_N2.pdb
